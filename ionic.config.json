@@ -1,0 +1,8 @@
+{
+  "name": "instituto",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "662b340f"
+}
